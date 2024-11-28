@@ -19,7 +19,7 @@ const App = () => {
   const [password, setPassword] = useState("");
 
   // Predefined admin credentials
-  const adminUsername = "admin";
+  const adminUsername = "admin@rbac.com";
   const adminPassword = "admin123";
 
   // User Management State
